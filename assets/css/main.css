@@ -1,0 +1,27 @@
+
+ul{
+  background-color: rgba(68, 13, 194, 0.8);
+  font-family: Trebuchet MS, Arial, sans-serif;
+  font-weight: bold;
+}
+
+li{
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+
+a{
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+}
+
+a:hover{
+  color: rgb(246, 42, 42);
+}
+
+span{
+  color: rgb(62, 203, 20);
+  margin: 0 100px;
+}
